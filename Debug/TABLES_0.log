@@ -1,0 +1,9 @@
+﻿  ArrTable.cpp
+C:\Users\nicks\source\repos\TABLES_0\TABLES_0\ArrTable.cpp(18,25): warning C4552: "<": результат выражения не используется
+  ArrayHash.cpp
+  HashTable.cpp
+  ScanTable.cpp
+  SortTable.cpp
+  Source.cpp
+  Создание кода...
+  TABLES_0.vcxproj -> C:\Users\nicks\source\repos\TABLES_0\Debug\TABLES_0.exe
